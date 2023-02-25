@@ -1,2 +1,0 @@
-# CourseraTest
-Initial Commit
